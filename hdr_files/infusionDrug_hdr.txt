@@ -1,0 +1,1 @@
+infusionDrugID$!#patientUnitStayID$!#infusionYear$!#infusionTime24$!#infusionTime$!#infusionOffset$!#drugName$!#drugRate$!#infusionRate$!#drugAmount$!#volumeOfFluid$!#patientWeight

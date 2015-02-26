@@ -1,0 +1,1 @@
+intakeOutputID$!#patientUnitStayID$!#intakeOutputYear$!#intakeOutputTime24$!#intakeOutputTime$!#intakeOutputOffset$!#intakeTotal$!#outputTotal$!#dialysisTotal$!#netTotal$!#intakeOutputEntryYear$!#intakeOutputEntryTime24$!#intakeOutputEntryTime$!#intakeOutputEntryOffset$!#cellPath$!#cellLabel$!#cellValueNumeric$!#cellValueText

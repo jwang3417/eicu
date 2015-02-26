@@ -1,0 +1,1 @@
+treatmentID$!#patientUnitStayID$!#treatmentYear$!#treatmentTime24$!#treatmentTime$!#treatmentOffset$!#treatmentString$!#activeUponDischarge

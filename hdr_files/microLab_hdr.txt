@@ -1,0 +1,1 @@
+microLabID$!#patientUnitStayID$!#cultureTakenYear$!#cultureTakenTime24$!#cultureTakenTime$!#cultureTakenOffset$!#cultureSite$!#organism$!#antibiotic$!#sensitivityLevel

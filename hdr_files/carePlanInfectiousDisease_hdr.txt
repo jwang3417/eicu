@@ -1,0 +1,1 @@
+cplInfectID$!#patientUnitStayID$!#cplInfectDiseaseYear$!#cplInfectDiseaseTime24$!#cplInfectDiseaseTime$!#cplInfectDiseaseOffset$!#infectDiseaseSite$!#infectDiseaseAssessment$!#responseToTherapy$!#treatment$!#activeUponDischarge

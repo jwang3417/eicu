@@ -1,0 +1,2 @@
+#echo "Kendall2013" | sqlldr  eicu_v1 control=./admissionDx.ctl parallel=true direct=true skip_index_maintenance=true 
+

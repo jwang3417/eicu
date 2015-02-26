@@ -1,0 +1,1 @@
+cplEolID$!#patientUnitStayID$!#cplEolSaveYear$!#cplEolSaveTime24$!#cplEolSaveTime$!#cplEolSaveOffset$!#cplEolDiscussionYear$!#cplEolDiscussionTime24$!#cplEolDiscussionTime$!#cplEolDiscussionOffset$!#activeUponDischarge

@@ -1,0 +1,1 @@
+customLabID$!#patientUnitStayID$!#labOtherYear$!#labOtherTime24$!#labOtherTime$!#labOtherOffset$!#labOtherTypeID$!#labOtherName$!#labOtherResult$!#labOtherValueText

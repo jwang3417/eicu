@@ -1,0 +1,1 @@
+cplGeneralID$!#patientUnitStayID$!#cplItemYear$!#cplItemTime24$!#cplItemTime$!#cplItemOffset$!#cplGroup$!#cplItemValue$!#activeUponDischarge

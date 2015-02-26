@@ -1,0 +1,1 @@
+respChartID$!#patientUnitStayID$!#respChartYear$!#respChartTime24$!#respChartTime$!#respChartOffset$!#respChartEntryYear$!#respChartEntryTime24$!#respChartEntryTime$!#respChartEntryOffset$!#respChartTypeCat$!#respChartValueLabel$!#respChartValue

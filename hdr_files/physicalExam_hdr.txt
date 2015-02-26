@@ -1,0 +1,1 @@
+physicalExamID$!#patientUnitStayID$!#physicalExamYear$!#physicalExamTime24$!#physicalExamTime$!#physicalExamOffset$!#physicalExamPath$!#physicalExamValue$!#physicalExamText

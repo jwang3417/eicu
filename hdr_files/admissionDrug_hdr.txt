@@ -1,0 +1,1 @@
+admissionDrugID$!#patientUnitStayID$!#drugYear$!#drugTime24$!#drugTime$!#drugOffset$!#drugEnteredYear$!#drugEnteredTime24$!#drugEnteredTime$!#drugEnteredOffset$!#drugNoteType$!#specialtyType$!#userType$!#rxIncluded$!#writtenIneICU$!#drugName$!#drugDosage$!#drugUnit$!#drugAdmitFrequency$!#drugHiclSeqno

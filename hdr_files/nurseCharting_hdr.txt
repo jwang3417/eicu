@@ -1,0 +1,1 @@
+nursingChartID$!#patientUnitStayID$!#nursingChartYear$!#nursingChartTime24$!#nursingChartTime$!#nursingChartOffset$!#nursingChartEntryYear$!#nursingChartEntryTime24$!#nursingChartEntryTime$!#nursingChartEntryOffset$!#nursingChartCellTypeCat$!#nursingChartCellTypeValLabel$!#nursingChartCellTypeValName$!#nursingChartValue

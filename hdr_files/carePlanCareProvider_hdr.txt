@@ -1,0 +1,1 @@
+cplCareProvderID$!#patientUnitStayID$!#careProviderSaveYear$!#careProviderSaveTime24$!#careProviderSaveTime$!#careProviderSaveOffset$!#providerType$!#specialty$!#interventionCategory$!#managingPhysician$!#activeUponDischarge

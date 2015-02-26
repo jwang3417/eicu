@@ -1,0 +1,1 @@
+cplGoalID$!#patientUnitStayID$!#cplGoalYear$!#cplGoalTime24$!#cplGoalTime$!#cplGoalOffset$!#cplGoalCategory$!#cplGoalValue$!#cplGoalStatus$!#activeUponDischarge

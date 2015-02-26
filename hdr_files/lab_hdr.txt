@@ -1,0 +1,1 @@
+labID$!#patientUnitStayID$!#labResultYear$!#labResultTime24$!#labResultTime$!#labResultOffset$!#labTypeID$!#labName$!#labResult$!#labResultText$!#labMeasureNameSystem$!#labMeasureNameInterface$!#labResultRevisedYear$!#labResultRevisedTime24$!#labResultRevisedTime$!#labResultRevisedOffset

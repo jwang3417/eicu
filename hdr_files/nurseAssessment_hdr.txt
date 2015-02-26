@@ -1,0 +1,1 @@
+nurseAssessID$!#patientUnitStayID$!#nurseAssessYear$!#nurseAssessTime24$!#nurseAssessTime$!#nurseAssessOffset$!#nurseAssessEntryYear$!#nurseAssessEntryTime24$!#nurseAssessEntryTime$!#nurseAssessEntryOffset$!#cellAttributePath$!#cellLabel$!#cellAttribute$!#cellAttributeValue

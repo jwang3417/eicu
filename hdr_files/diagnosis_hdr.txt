@@ -1,0 +1,1 @@
+diagnosisID$!#patientUnitStayID$!#diagnosisYear$!#diagnosisTime24$!#diagnosisTime$!#diagnosisOffset$!#diagnosisString$!#activeUponDischarge$!#ICD9Code$!#diagnosisPriority

@@ -1,0 +1,1 @@
+billingID$!#patientUnitStayID$!#billingYear$!#billingTime24$!#billingTime$!#billingOffset$!#billingEnteredYear$!#billingEnteredTime24$!#billingEnteredTime$!#billingEnteredOffset$!#billingType$!#billingPath$!#billingName$!#billingValue

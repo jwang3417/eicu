@@ -1,0 +1,1 @@
+pastHistoryID$!#patientUnitStayID$!#pastHistoryYear$!#pastHistoryTime24$!#pastHistoryTime$!#pastHistoryOffset$!#pastHistoryEnteredYear$!#pastHistoryEnteredTime24$!#pastHistoryEnteredTime$!#pastHistoryEnteredOffset$!#pastHistoryNoteType$!#pastHistoryPath$!#pastHistoryValue$!#pastHistoryValueText
