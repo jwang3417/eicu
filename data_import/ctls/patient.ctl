@@ -1,0 +1,10 @@
+OPTIONS (skip=1)
+load data 
+infile '/dbbackup/eicu/patient.txt' 
+append
+into table patient
+fields terminated by "$!#"
+trailing nullcols
+(
+patientUnitStayID,patientHealthSystemStayID,gender,age,ethnicity,hospitalID,wardID,apacheAdmissionDx,admissionHeight,hospitalAdmitYear,hospitalAdmitTime24,hospitalAdmitTime,hospitalAdmitOffset,hospitalAdmitSource,hospitalDischargeYear,hospitalDischargeTime24,hospitalDischargeTime,hospitalDischargeOffset,hospitalDischargeLocation,hospitalDischargeStatus,unitType,unitAdmitYear,unitAdmitTime24,unitAdmitTime,unitAdmitSource,unitVisitNumber,unitStayType,admissionWeight,dischargeWeight,unitDischargeYear,unitDischargeTime24,unitDischargeTime,unitDischargeOffset,unitDischargeLocation,unitDischargeStatus,auditEtlRunID
+)

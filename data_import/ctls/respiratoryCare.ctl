@@ -1,0 +1,10 @@
+OPTIONS (skip=1)
+load data 
+infile '/dbbackup/eicu/respiratoryCare.txt' 
+append
+into table respiratoryCare
+fields terminated by "$!#"
+trailing nullcols
+(
+respCareID,patientUnitStayID,respCareStatusYear,respCareStatusTime24,respCareStatusTime,respCareStatusOffset,currentHistorySeqNum,airwayType,airwaySize,airwayPosition,cuffPressure,ventStartYear,ventStartTime24,ventStartTime,ventStartOffset,ventEndYear,ventEndTime24,ventEndTime,ventEndOffset,priorVentStartYear,priorVentStartTime24,priorVentStartTime,priorVentStartOffset,priorVentEndYear,priorVentEndTime24,priorVentEndTime,priorVentEndOffset,apneaParms,lowExhMVLimit,hiExhMVLimit,lowExhTVLimit,hiPeakPresLimit,lowPeakPresLimit,hiRespRateLimit,lowRespRateLimit,sighPresLimit,lowIronOxLimit,highIronOxLimit,meanAirwayPresLimit,PEEPLimit,CPAPLimit,setApneaInterval,setApneaTV,setApneaIPPEEPHigh,setApneaRR,setApneaPeakFlow,setApneaInspTime,setApneaIE,setApneaFIO2
+)
